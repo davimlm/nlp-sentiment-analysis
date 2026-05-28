@@ -68,8 +68,8 @@ brazilian-music-analysis/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/brazilian-music-analysis.git
-cd brazilian-music-analysis
+git clone https://github.com/davimlm/nlp-sentiment-analysis.git
+cd nlp-sentiment-analysis
 ```
 
 ### 2. Crie um ambiente virtual (recomendado)
