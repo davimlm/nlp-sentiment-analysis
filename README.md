@@ -1,4 +1,4 @@
-# 🎵 Brazilian Music Analysis (2015–2019)
+# 🎵 Análise de Músicas Brasileiras (2015–2019)
 
 Análise de letras das músicas mais ouvidas no Brasil entre 2015 e 2019, combinando processamento de linguagem natural (NLP), análise de sentimentos e visualizações interativas.
 
