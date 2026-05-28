@@ -1,0 +1,6 @@
+matplotlib
+wordcloud
+deep-translator
+transformers
+torch
+numpy
